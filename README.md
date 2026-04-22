@@ -1,0 +1,2 @@
+# initGit
+initial git command
